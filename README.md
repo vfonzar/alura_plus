@@ -52,23 +52,26 @@ cd alura_plus
 ✔️ Estrutura modularizada de CSS
 ✔️ Página otimizada para melhor performance
 
-📝 Melhorias Futuras
-
-🚀 Implementação de um formulário de login
-🎨 Adição de temas customizáveis (modo claro/escuro)
-📘 Integração com um sistema de autenticação
 
 🤝 Contribuindo
 
 Este projeto é voltado para aprendizado, mas se quiser contribuir, siga os passos:
-	1.	Faça um fork deste repositório
-	2.	Crie uma branch (git checkout -b feature-sua-mudanca)
-	3.	Faça o commit (git commit -m 'Adicionando nova funcionalidade')
-	4.	Envie para o GitHub (git push origin feature-sua-mudanca)
-	5.	Abra um Pull Request
+1.	Faça um fork deste repositório
+2.	Crie uma branch (git checkout -b feature-sua-mudanca)
+3.	Faça o commit (git commit -m 'Adicionando nova funcionalidade')
+4.	Envie para o GitHub (git push origin feature-sua-mudanca)
+5.	Abra um Pull Request
 
 📜 Licença
 
 Este projeto é open-source e segue a licença MIT.
+
+---
+
+## 📬 Contato
+
+📧 <a href="mailto:seuemail@exemplo.com?subject=Contato%20via%20GitHub" target="_blank">Vinicius Fonzar</a>  
+💼 <a href="https://www.linkedin.com/in/vfonzar" target="_blank">LinkedIn</a>  
+🐙 <a href="https://github.com/vfonzar" target="_blank">GitHub</a>  
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue! 🚀
