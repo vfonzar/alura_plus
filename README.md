@@ -31,14 +31,18 @@ Se deseja rodar o projeto no seu ambiente de desenvolvimento, siga estes passos:
 
 ### 🔄 Clonar o repositório
 ```sh
-git clone https://github.com/vfonzar/alura_plus.git```
+git clone https://github.com/vfonzar/alura_plus.git
+```
+
 
 ▶️ Rodar o projeto
 
 1.	Acesse a pasta do projeto:
 
 ```sh
-cd alura_plus```
+cd alura_plus
+```
+
 
 2.	Abra o arquivo index.html no navegador
 
