@@ -46,6 +46,8 @@ cd alura_plus
 
 2.	Abra o arquivo index.html no navegador
 
+---
+
 🛠️ Funcionalidades
 
 ✔️ Layout responsivo para diversos dispositivos
@@ -61,6 +63,7 @@ Este projeto é voltado para aprendizado, mas se quiser contribuir, siga os pass
 3.	Faça o commit (git commit -m 'Adicionando nova funcionalidade')
 4.	Envie para o GitHub (git push origin feature-sua-mudanca)
 5.	Abra um Pull Request
+
 
 📜 Licença
 
