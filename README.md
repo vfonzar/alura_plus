@@ -2,11 +2,9 @@ Aqui está um README.md bem estruturado para o projeto Alura Plus, seguindo as m
 
 # 🌐 Alura Plus
 
-![Projeto Alura Plus](https://vfonzar.github.io/alura_plus/assets/aluraplus-banner.png) <!-- Substitua por uma imagem real do projeto se disponível -->
-
 ## 📖 Sobre o Projeto
 
-O **Alura Plus** é um projeto desenvolvido como parte do curso de **Front-end com HTML e CSS** da plataforma Alura. O objetivo é criar uma **landing page responsiva**, utilizando boas práticas de estruturação e estilização para aprimorar a experiência do usuário.
+O **Alura Plus** é um projeto desenvolvido como parte do curso de **Front-end com HTML e CSS** da plataforma Alura. O objetivo é criar uma **landing page**, utilizando boas práticas de estruturação e estilização para aprimorar a experiência do usuário.
 
 🔗 **Acesse o projeto online:**  
 👉 [vfonzar.github.io/alura_plus/](https://vfonzar.github.io/alura_plus/)
@@ -19,16 +17,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - **HTML5** → Estruturação semântica da página  
 - **CSS3** → Estilização e design responsivo  
-- **Flexbox e Grid Layout** → Organização visual moderna  
 - **Git e GitHub Pages** → Versionamento e publicação  
-
----
-
-## 📷 Capturas de Tela
-
-<!-- Insira imagens do projeto aqui -->
-![Screenshot 1](https://via.placeholder.com/800x400)  
-![Screenshot 2](https://via.placeholder.com/800x400)
 
 ---
 
