@@ -1,5 +1,3 @@
-Aqui está um README.md bem estruturado para o projeto Alura Plus, seguindo as melhores práticas para projetos públicos no GitHub.
-
 # 🌐 Alura Plus
 
 ## 📖 Sobre o Projeto
